@@ -24,6 +24,10 @@ header a{
     justify-content: space-around;
 }
 
+button{
+    cursor: pointer;
+}
+
 .button1{
     height: 60px;
     width: 180px;
